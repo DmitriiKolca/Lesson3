@@ -1,0 +1,30 @@
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\bin\Debug\net6.0\Глава 3.exe
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\bin\Debug\net6.0\Глава 3.deps.json
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\bin\Debug\net6.0\Глава 3.runtimeconfig.json
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\bin\Debug\net6.0\Глава 3.dll
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\bin\Debug\net6.0\Глава 3.pdb
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.AssemblyInfo.cs
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.dll
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\refint\Глава 3.dll
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.pdb
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\Глава 3.genruntimeconfig.cache
+C:\Users\home\Desktop\С#\Глава 3\Глава 3\obj\Debug\net6.0\ref\Глава 3.dll
+D:\LessonsC#\RetirementAge\bin\Debug\net6.0\Глава 3.exe
+D:\LessonsC#\RetirementAge\bin\Debug\net6.0\Глава 3.deps.json
+D:\LessonsC#\RetirementAge\bin\Debug\net6.0\Глава 3.runtimeconfig.json
+D:\LessonsC#\RetirementAge\bin\Debug\net6.0\Глава 3.dll
+D:\LessonsC#\RetirementAge\bin\Debug\net6.0\Глава 3.pdb
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.csproj.AssemblyReference.cache
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.AssemblyInfoInputs.cache
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.AssemblyInfo.cs
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.csproj.CoreCompileInputs.cache
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.dll
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\refint\Глава 3.dll
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.pdb
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\Глава 3.genruntimeconfig.cache
+D:\LessonsC#\RetirementAge\obj\Debug\net6.0\ref\Глава 3.dll
